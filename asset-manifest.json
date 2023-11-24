@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/aitumap-test-ghpages/static/css/main.ab17a26c.css",
+    "main.css": "/aitumap-test-ghpages/static/css/main.f4745d34.css",
     "main.js": "/aitumap-test-ghpages/static/js/main.070a2edf.js",
     "static/js/698.9a07319c.chunk.js": "/aitumap-test-ghpages/static/js/698.9a07319c.chunk.js",
     "static/js/572.feb45896.chunk.js": "/aitumap-test-ghpages/static/js/572.feb45896.chunk.js",
@@ -22,7 +22,7 @@
     "static/js/428.1c8dfada.chunk.js": "/aitumap-test-ghpages/static/js/428.1c8dfada.chunk.js",
     "static/js/964.88c5a22c.chunk.js": "/aitumap-test-ghpages/static/js/964.88c5a22c.chunk.js",
     "index.html": "/aitumap-test-ghpages/index.html",
-    "main.ab17a26c.css.map": "/aitumap-test-ghpages/static/css/main.ab17a26c.css.map",
+    "main.f4745d34.css.map": "/aitumap-test-ghpages/static/css/main.f4745d34.css.map",
     "main.070a2edf.js.map": "/aitumap-test-ghpages/static/js/main.070a2edf.js.map",
     "698.9a07319c.chunk.js.map": "/aitumap-test-ghpages/static/js/698.9a07319c.chunk.js.map",
     "572.feb45896.chunk.js.map": "/aitumap-test-ghpages/static/js/572.feb45896.chunk.js.map",
@@ -45,7 +45,7 @@
     "964.88c5a22c.chunk.js.map": "/aitumap-test-ghpages/static/js/964.88c5a22c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ab17a26c.css",
+    "static/css/main.f4745d34.css",
     "static/js/main.070a2edf.js"
   ]
 }
